@@ -1,10 +1,10 @@
 # Site
-title:              Massively
+title:              Jackson Choral Society
 bio:                'Jekyll version of the Massively theme by HTML5UP'
 description:        "Jekyll version of the Massively theme by HTML5UP"
 locale:             en_US
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "http://www.jacksonchoralsociety.com" # the base hostname & protocol for your site
 
 defaults:
 - scope:
@@ -36,14 +36,14 @@ disqus_shortname:   default
 # Social
 analytics-id:       "default"
 twitter:            default
-facebook:           default
+facebook:           "https://www.facebook.com/JacksonChoralSociety"
 instagram:          default
 github:             default
 
 # personal
 location:           Los Angeles, CA
 phone:              310-318-5555
-email:              info@default.com
+email:              info@jacksonchoralsociety.com
 
 # Gems
 gems:
