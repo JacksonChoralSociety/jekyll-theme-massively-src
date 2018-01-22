@@ -35,14 +35,13 @@ disqus_shortname:   default
 
 # Social
 analytics-id:       "default"
-twitter:            default
+twitter:            "https://twitter.com/JacksonChoral"
 facebook:           "https://www.facebook.com/JacksonChoralSociety"
 instagram:          default
 github:             default
 
 # personal
-location:           Los Angeles, CA
-phone:              310-318-5555
+location:           Jackson, TN
 email:              info@jacksonchoralsociety.com
 
 # Gems

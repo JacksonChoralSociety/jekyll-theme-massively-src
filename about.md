@@ -1,27 +1,20 @@
 ---
 layout: page
-title: Jekyll Theme - About - Massively
-description: When building a website it's helpful to see what the focus of your site is. This page is an example of how to show a website's focus.
+title: Jackson Choral Society - About
+description: About Us
 sitemap:
     priority: 0.7
     lastmod: 2017-11-02
     changefreq: weekly
 ---
-## About our Site
+## Artist Profiles
 
-<span class="image left"><img src="{{ "/images/pic04.jpg" | absolute_url }}" alt="" /></span>
+### Austin Clark, Musical Director
+<a href="#" class="image left"><img src="{{ "/images/Austin.webp" | absolute_url }}" alt="" /></a>
+Austin Clark became the Music Director of the Jackson Choral Society in January 2017.  Austin also serves as Minister of Music/Discipleship at First Baptist Church in Milan, Tennessee.  A native of Jackson, Austin graduated from Jackson Central-Merry High School in 2004.  He then earned a Bachelor of Music in Vocal Performance from Union University and a Master of Music in Choral Conducting from the University of Southern Mississippi.  Austin has held church music positions in Tennessee, Mississippi, and Illinois.  He has served as guest clinicians at the elementary school, high school, and collegiate level in Mississippi and Illinois.  In addition to studying under James Richard Joiner and Gregory Fuller, Austin has also been able to study under John Flannery, Rick Bjella, and Sigrid Johnson.  He currently is an active singer in the Tennessee Men’s Chorale and is an officer in the Tennessee Baptist Church Music Conference.
 
-Making steady content and conveying it well takes a great deal of research and, hence, time and exertion. Building a profound established comprehension of your target customer needs is critical as your principle objective ought to be to fulfill their requirements as awesome content. You should need to enhance their lives. Having significant content like this may not be simple by any methods. Be that as it may, in any case, it's a fundamental apparatus in the event that you expect to grow a fruitful and supportable business in the present web focused world.
+Austin currently lives in Milan, TN with his wife, Leah.  They have 3 children, Eli, Everett, and Norah Beth.
 
-Receiving the benefits of content is a certain something. Be that as it may, it's so substantially less demanding once you begin conveying all the more successfully. The profitable content thought isn't just about bragging your item's capacities and general worth or your organization's achievements. You should concentrate less on advertising how awesome your item is and rather concentrate on indicating how valuable it is. This is a client focused approach as it concentrates on their issues and your answer for them. Making yourself fundamental is critical.
-
-### Content is Imortant
-<div class="box">
-  <p>
-  In saying that, a one-measure fits-all approach won't do the trick with regards to content promoting. Rather, an emphasis on making remarkable, high caliber and totally genuine content that is engaging, helpful and fascinating for customers will get you the crown. From content, video and symbolism to infographics, studies, online courses and podcasts, whatever your favored content medium is, guarantee it is shareable and pertinent to your industry.
-  </p>
-</div>
-
-<span class="image left"><img src="{{ "/images/pic05.jpg" | absolute_url }}" alt="" /></span>
-
-On social media, we may share our own thoughts and advance our image notwithstanding spreading musings for different associations and affiliations. With such a critical number of associations with people and relationship on social media, our experience can be over-burden with a considerable measure of information.
+### Mitzi Mathenia, Accompanist
+<a href="#" class="image left"><img src="{{ "/images/Mitzi.webp" | absolute_url }}" alt="" /></a>
+Mitzi Mathenia serves on the Music Ministry staff with her husband, Randy, at Northside United Methodist Church in Jackson, Tennessee, where for the past 23 years she has enjoyed being continually stretched and surprised. She is also on staff at Union University as an accompanist and plays for the Jackson Symphony. She graduated from Memphis State University (now the University of Memphis) and has four musical sons. Her greatest joys have been homeschooling her boys and seeing the countless ways God lets her participate in people’s lives with her piano playing. Her greatest passion is to worship God Almighty. And her greatest desire is to live in such a way that – as Bach signed his music, “Soli Deo Gloria” – people would be able to say, to God alone be the glory.

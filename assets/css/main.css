@@ -2459,7 +2459,7 @@
 		.image.main {
 			display: block;
 			margin: 4rem 0;
-			width: 100%;
+			width: 75%;
 		}
 
 			.image.main:first-child {
@@ -3027,8 +3027,8 @@
 			left: 0;
 			width: 100%;
 			height: 100%;
-			background-color: #212931;
-			background-image: url("../../images/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bgJCS.jpg");
+			background-color: #2F4858;
+			background-image: url("../../images/bg3.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("../../images/bg2.png");
 			background-size: auto,								auto,														100% auto;
 			background-position: center,								center,														top center;
 			background-repeat: repeat,								repeat,													repeat;
@@ -3055,7 +3055,7 @@
 			-webkit-transition-delay: 0.75s;
 			-ms-transition-delay: 0.75s;
 			transition-delay: 0.75s;
-			background: #1e252d;
+			background: #2F4858;
 			content: '';
 			display: block;
 			height: 100%;
