@@ -2,6 +2,6 @@
   <li class="{% if page.url == "/" %} active {% endif %}"><a href="{{ "/" | absolute_url }}">Home</a></li>
   <li class="{% if page.url contains '/about/' %} active {% endif %}"><a href="{{ "/about/" | absolute_url }}">About</a></li>
   <li class="{% if page.url contains '/blog/' %} active {% endif %}"><a href="{{ "/blog/" | absolute_url }}">Productions</a></li>
-  <li class="{% if page.url contains '/Donate/' %} active {% endif %}"><a href="{{ "/Donate/" | absolute_url }}">Donate</a></li>
+  <li class="{% if page.url contains '/Donate/' %} active {% endif %}"><a href="{{ "https://donate.everydayhero.com/us/jackson-choral-society/jackson-choral-society/" target="_blank" rel="noopener noreferrer" | absolute_url }}">Donate</a></li>
   <li class="{% if page.url contains '/ContactUs/' %} active {% endif %}"><a href="{{ "/ContactUs/" | absolute_url }}">Contact Us</a></li>
 </ul>
